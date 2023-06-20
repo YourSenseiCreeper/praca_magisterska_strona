@@ -5247,9 +5247,9 @@ module.exports = Object.setPrototypeOf || ('__proto__' in {} ? function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish\angular\node_modules\webpack-dev-server\client\index.js?http://0.0.0.0:0&sockPath=/sockjs-node */"QM51");
-__webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish\angular\node_modules\@angular-devkit\build-angular\src\webpack\es5-polyfills.js */"voQr");
-module.exports = __webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish\angular\src\polyfills.ts */"hN/g");
+__webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish_Accessible\angular\node_modules\webpack-dev-server\client\index.js?http://0.0.0.0:0&sockPath=/sockjs-node */"QM51");
+__webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish_Accessible\angular\node_modules\@angular-devkit\build-angular\src\webpack\es5-polyfills.js */"voQr");
+module.exports = __webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish_Accessible\angular\src\polyfills.ts */"hN/g");
 
 
 /***/ }),

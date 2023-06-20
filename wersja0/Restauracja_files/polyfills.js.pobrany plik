@@ -5248,8 +5248,8 @@ $({ target: 'Reflect', stat: true, sham: !FREEZING }, {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish\angular\node_modules\webpack-dev-server\client\index.js?http://0.0.0.0:0&sockPath=/sockjs-node */"QM51");
-module.exports = __webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish\angular\src\polyfills.ts */"hN/g");
+__webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish_Accessible\angular\node_modules\webpack-dev-server\client\index.js?http://0.0.0.0:0&sockPath=/sockjs-node */"QM51");
+module.exports = __webpack_require__(/*! C:\Users\toman\source\repos\ThreeDotDish_Accessible\angular\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
